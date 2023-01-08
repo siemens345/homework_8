@@ -1,0 +1,10 @@
+{
+  "name": "Karl",
+  "age": 20,
+  "active": true,
+  "actions": [
+    "eat",
+    "sleep",
+    "study"
+  ]
+}
